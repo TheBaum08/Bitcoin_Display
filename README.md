@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![GitHub release](https://img.shields.io/github/v/release/yourusername/bitcoin-eink-display?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/bitcoin-eink-display?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/bitcoin-eink-display?style=flat-square)
-![License](https://img.shields.io/github/license/yourusername/bitcoin-eink-display?style=flat-square)
+![GitHub release](https://img.shields.io/github/v/release/TheBaum08/bitcoin-eink-display?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/TheBaum08/bitcoin-eink-display?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/TheBaum08/bitcoin-eink-display?style=flat-square)
+![License](https://img.shields.io/github/license/TheBaum08/bitcoin-eink-display?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.7+-blue?style=flat-square&logo=python)
 
 **Live cryptocurrency price tracking on E-Ink displays**  
